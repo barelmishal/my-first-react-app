@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+}
+
+.navigetion {
+    background-color: #c4c4c4;
+    padding: 1rem 1.15rem;
+    display: flex;
+}
+
+.left-side, .right-side {
+    flex-grow: 1;
+}
+
+.right-side {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.button {
+    min-width: 12rem;
+    background-color: aliceblue;
+    border-radius: 1rem;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem 0;
+    margin-right: 1rem;
+}
+
+.user {
+    background-color: goldenrod;
+}
+
+
+
+
+
+
+
+
+
+
+
+
