@@ -32,3 +32,20 @@ body {
 .user {
     background-color: goldenrod;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+
+}
+
+.main-work {
+    border: 1px solid black;
+    border-radius: 2rem 2rem 0 0;
+    min-width: 62.5rem;
+}
+
+.foods-table-nav {
+    padding: 1rem
+}
