@@ -49,3 +49,22 @@ body {
 .foods-table-nav {
     padding: 1rem
 }
+
+
+
+table {
+    width: 100%;
+    min-height: 20rem;
+}
+
+th {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+tr {
+    vertical-align: top;
+}
